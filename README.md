@@ -5,21 +5,21 @@ Autoit3 scripts to automate playing in order to earn the more tedious achievemen
 
 - Download Autoit3 (https://www.autoitscript.com/site/autoit/) and install it
 - Run The Food Run
-- Choose the appropiate level for the script you're going to use
+- Choose the appropiate level for the script you're going to use (see below)
 - Run the script via AutoIt3
 - Let it run until you unlock the achievement(s)
 
 # foodrun-4-1.au3
 
-This script plays level 4-1 for the "Step in the right direction" achievement (hit 500 arrows)
+This script plays level 4-1 for the "Step in the right direction" achievement (hit 500 arrows). This will take a few minutes.
 
 # foodrun-5-5.au3
 
-This script plays level 5-5 for the "When push comes to shove" achievement (move 250 crates)
+This script plays level 5-5 for the "When push comes to shove" achievement (move 250 crates). This only takes a few minutes.
 
 # foodrun-7-8.au3
 
-This script plays level 7-8 to earn you several achievments:
+This script plays level 7-8 to earn you several achievements. This will take about two hours.
 
 - Your Move (make 2500 moves)
 - Top of the Food Chain (eat 10000 food)
