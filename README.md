@@ -19,7 +19,7 @@ This script plays level 5-5 for the "When push comes to shove" achievement (move
 
 # foodrun-7-8.au3
 
-This script plays level 7-8 to earn you several achievements. This will take about two hours.
+This script plays level 7-8 to earn you several achievements. This will take about two hours if you followed the guide on TrueAchievements.com or possibly less if you actually bothered to play the game.
 
 - Your Move (make 2500 moves)
 - Top of the Food Chain (eat 10000 food)
